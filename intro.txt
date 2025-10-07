@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is DANH TRẦN ĐĂNG KHOA
+=======
+Xin chào, tôi là DANH TRẦN ĐĂNG KHOA
+>>>>>>> feature-update
 Tôi là sinh viên CNTT.
 Sở thích: ĐÁNH BÓNG, MÚA
 Kỹ năng: Git, Python, HTML/CSS.
