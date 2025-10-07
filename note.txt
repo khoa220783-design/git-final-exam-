@@ -1,2 +1,4 @@
 - Git rất hữu ích.
 - Hỗ trợ làm việc nhóm hiệu quả.
+- Tôi học được nhiều điều từ Git.
+- Sẽ áp dụng trong dự án sau.
