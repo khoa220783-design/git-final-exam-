@@ -1,4 +1,4 @@
-Xin chào, tôi là DANH TRAN DANG KHOA
+Xin chào, tôi là DANH TRẦN ĐĂNG KHOA
 Tôi là sinh viên CNTT.
 Sở thích: ĐÁNH BÓNG, MÚA
 Kỹ năng: Git, Python, HTML/CSS.
